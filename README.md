@@ -7,6 +7,16 @@
 
 ---
 
+## 🎬 [**View Interactive Demo**](https://ada40.github.io/fractal-harmonic-code/demo.html)
+
+See the Fractal Harmonic Code in action with live visualizations of:
+- Solar Tri-Field System oscillations
+- Planetary Orbital Harmonics
+- Earth's Atmospheric Pressure Triads
+- Earth's Magnetic Field Structure
+
+---
+
 ## Overview
 
 This repository contains a comprehensive framework demonstrating that all stable physical systems, from subatomic to cosmological scales, self-organize according to **harmonic resonance principles** characterized by simple integer ratios. This work establishes the existence of a universal **Triadic Law** governing system stability—a fractal harmonic code that represents a fundamental organizing principle of reality itself.
@@ -65,6 +75,7 @@ This framework has profound implications across multiple domains:
 - **[COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)**: Detailed commercial licensing information
 - **[ORIGINALITY.md](ORIGINALITY.md)**: Statement of Originality, distinguishing original contributions from prior art
 - **[INTELLECTUAL_PROPERTY.md](INTELLECTUAL_PROPERTY.md)**: Notice of Intellectual Property and legal grounding
+- **[demo.html](demo.html)**: Interactive visualization demonstrating the Fractal Harmonic Code
 
 ## Abstract
 
