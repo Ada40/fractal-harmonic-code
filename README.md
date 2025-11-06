@@ -64,6 +64,7 @@ This framework has profound implications across multiple domains:
 - **[LICENSE.md](LICENSE.md)**: Dual-license structure (free for research, paid for commercial)
 - **[COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)**: Detailed commercial licensing information
 - **[ORIGINALITY.md](ORIGINALITY.md)**: Statement of Originality, distinguishing original contributions from prior art
+- **[INTELLECTUAL_PROPERTY.md](INTELLECTUAL_PROPERTY.md)**: Notice of Intellectual Property and legal grounding
 
 ## Abstract
 
