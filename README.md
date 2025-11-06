@@ -63,6 +63,7 @@ This framework has profound implications across multiple domains:
 - **[AUTHOR.md](AUTHOR.md)**: About Adam Lee Hatchett and his contributions
 - **[LICENSE.md](LICENSE.md)**: Dual-license structure (free for research, paid for commercial)
 - **[COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)**: Detailed commercial licensing information
+- **[ORIGINALITY.md](ORIGINALITY.md)**: Statement of Originality, distinguishing original contributions from prior art
 
 ## Abstract
 
