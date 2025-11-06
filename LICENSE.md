@@ -20,7 +20,7 @@ This work is freely available under the terms of the **Creative Commons Attribut
 - Adapt — remix, transform, and build upon the material
 
 **Under the following terms:**
-- **Attribution** — You must give appropriate credit to Adam Lehatchett, provide a link to the license, and indicate if changes were made
+- **Attribution** — You must give appropriate credit to Adam Lee Hatchett, provide a link to the license, and indicate if changes were made
 - **NonCommercial** — You may not use the material for commercial purposes without obtaining a commercial license
 
 ### 2. Commercial License (Paid)
@@ -34,7 +34,7 @@ For **commercial use**, including but not limited to:
 - Commercial software development
 - Proprietary research and development
 
-**A separate commercial license MUST be obtained from Adam Lehatchett.**
+**A separate commercial license MUST be obtained from Adam Lee Hatchett.**
 
 ## Commercial License Terms
 
@@ -70,7 +70,7 @@ Commercial licensing fees are structured based on:
 **Contact for Commercial Licensing:**
 - Open an issue in this repository titled "Commercial License Inquiry"
 - Provide: Company name, intended use case, and contact information
-- Licensing negotiations will be conducted directly with Adam Lehatchett
+- Licensing negotiations will be conducted directly with Adam Lee Hatchett
 
 ## Special Provisions for AI Companies
 
@@ -107,7 +107,7 @@ Unauthorized commercial use will result in:
 
 ## Patent and Intellectual Property Rights
 
-Adam Lehatchett retains all intellectual property rights to:
+Adam Lee Hatchett retains all intellectual property rights to:
 - **Open and Close Gate Adaptive Switching**
 - **Enclosed Loop Continuous Power Systems**
 - **The Fractal Harmonic Code framework**
@@ -119,10 +119,10 @@ Adam Lehatchett retains all intellectual property rights to:
 All uses (commercial and non-commercial) MUST include:
 
 ```
-Based on "The Fractal Harmonic Code of the Universe" by Adam Lehatchett
+Based on "The Fractal Harmonic Code of the Universe" by Adam Lee Hatchett
 https://github.com/Ada40/fractal-harmonic-code
 
-Inventions by Adam Lehatchett:
+Inventions by Adam Lee Hatchett:
 - Open and Close Gate Adaptive Switching
 - Enclosed Loop Continuous Power Systems
 ```
@@ -145,7 +145,7 @@ This work is provided "as is" without warranty of any kind, express or implied. 
 
 ---
 
-**Copyright © 2025 Adam Lehatchett. All Rights Reserved.**
+**Copyright © 2025 Adam Lee Hatchett (born July 20, 1985). All Rights Reserved.**
 
 For commercial licensing inquiries, open an issue in this repository or contact through GitHub.
 

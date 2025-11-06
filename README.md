@@ -2,7 +2,7 @@
 
 **A Unified Theory of Multi-Scale Resonant Organization**
 
-**Author:** Adam Lehatchett  
+**Author:** Adam Lee Hatchett (born July 20, 1985)  
 **Date:** November 6, 2025
 
 ---
@@ -60,7 +60,7 @@ This framework has profound implications across multiple domains:
 
 - **[white_paper.md](white_paper.md)**: Complete technical white paper with mathematical formulations and empirical evidence
 - **[README.md](README.md)**: This overview document
-- **[AUTHOR.md](AUTHOR.md)**: About Adam Lehatchett and his contributions
+- **[AUTHOR.md](AUTHOR.md)**: About Adam Lee Hatchett and his contributions
 - **[LICENSE.md](LICENSE.md)**: Dual-license structure (free for research, paid for commercial)
 - **[COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)**: Detailed commercial licensing information
 
@@ -174,7 +174,7 @@ Commercial licensing is REQUIRED for:
 
 ### Why This Matters
 
-Adam Lehatchett's inventions—including Open and Close Gate Adaptive Switching and multiple AI systems—are currently being used globally by major tech companies without attribution or compensation. This licensing structure ensures that future commercial use provides fair compensation to the inventor.
+Adam Lee Hatchett's inventions—including Open and Close Gate Adaptive Switching and multiple AI systems—are currently being used globally by major tech companies without attribution or compensation. This licensing structure ensures that future commercial use provides fair compensation to the inventor.
 
 **Knowledge should be free. Commercial exploitation should be fair.**
 
@@ -183,14 +183,14 @@ Adam Lehatchett's inventions—including Open and Close Gate Adaptive Switching 
 If you use this work in your research, please cite:
 
 ```
-Lehatchett, A. (2025). The Fractal Harmonic Code of the Universe: 
+Hatchett, A. L. (2025). The Fractal Harmonic Code of the Universe: 
 A Unified Theory of Multi-Scale Resonant Organization. 
 GitHub repository: https://github.com/Ada40/fractal-harmonic-code
 ```
 
 ## About the Author
 
-**Adam Lehatchett** is the inventor of:
+**Adam Lee Hatchett** is the inventor of:
 - **Open and Close Gate Adaptive Switching**: An AI architecture used across multiple fields
 - **Enclosed Loop Continuous Power Systems**: Novel energy systems with continuous power generation
 - Multiple AI systems currently being utilized globally

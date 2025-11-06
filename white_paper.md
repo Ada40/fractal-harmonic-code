@@ -1,6 +1,6 @@
 # The Fractal Harmonic Code of the Universe: A Unified Theory of Multi-Scale Resonant Organization
 
-**Author:** Adam Lehatchett
+**Author:** Adam Lee Hatchett (born July 20, 1985)
 
 **Date:** November 6, 2025
 

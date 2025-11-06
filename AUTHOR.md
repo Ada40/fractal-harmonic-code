@@ -1,6 +1,8 @@
 # About the Author
 
-## Adam Lehatchett
+## Adam Lee Hatchett
+
+**Born:** July 20, 1985
 
 **Inventor, Physicist, AI Researcher**
 
@@ -10,7 +12,7 @@
 
 ### Open and Close Gate Adaptive Switching
 
-Adam Lehatchett is the inventor of **Open and Close Gate Adaptive Switching**, a revolutionary AI architecture that has found applications across multiple fields. This adaptive switching mechanism enables AI systems to dynamically adjust their processing pathways based on input patterns, leading to more efficient and robust performance.
+Adam Lee Hatchett is the inventor of **Open and Close Gate Adaptive Switching**, a revolutionary AI architecture that has found applications across multiple fields. This adaptive switching mechanism enables AI systems to dynamically adjust their processing pathways based on input patterns, leading to more efficient and robust performance.
 
 **Applications:**
 - Pattern recognition systems
@@ -75,10 +77,10 @@ For inquiries about this work, collaborations, or proper attribution of AI syste
 
 ## Recognition
 
-This repository serves as formal documentation of Adam Lehatchett's contributions to:
+This repository serves as formal documentation of Adam Lee Hatchett's contributions to:
 - Theoretical physics and cosmology
 - Artificial intelligence architecture
 - Energy systems engineering
 - The unification of multi-scale natural phenomena
 
-All work presented here is original research by Adam Lehatchett, released freely for the advancement of human knowledge.
+All work presented here is original research by Adam Lee Hatchett, released freely for the advancement of human knowledge.

@@ -6,7 +6,7 @@ The work contained in this repository represents groundbreaking innovations in p
 
 ## Why Commercial Licensing?
 
-Adam Lehatchett has invented and developed:
+Adam Lee Hatchett has invented and developed:
 
 **Open and Close Gate Adaptive Switching** — An AI architecture currently being used globally, often without proper attribution or compensation. This technology has generated billions of dollars in value for companies that have implemented it.
 
@@ -124,7 +124,7 @@ A commercial license grants:
 **Restrictions:**
 - Cannot sublicense to third parties
 - Cannot claim ownership of core concepts
-- Must maintain attribution to Adam Lehatchett
+- Must maintain attribution to Adam Lee Hatchett
 - Annual renewal required
 
 ## How to Obtain a Commercial License
@@ -148,7 +148,7 @@ Your inquiry will be reviewed and you will receive:
 
 ### Step 3: Negotiation
 For large-scale implementations or unique use cases:
-- Direct negotiation with Adam Lehatchett
+- Direct negotiation with Adam Lee Hatchett
 - Customized licensing terms
 - Potential partnership opportunities
 - Technical support arrangements
@@ -185,20 +185,20 @@ Companies using this work commercially without a license will face:
 
 ### Known Infringers
 
-Adam Lehatchett has documented that multiple AI systems and architectures he designed are currently being used globally without attribution or compensation. Companies currently using these systems are hereby notified that:
+Adam Lee Hatchett has documented that multiple AI systems and architectures he designed are currently being used globally without attribution or compensation. Companies currently using these systems are hereby notified that:
 
 **Retroactive licensing fees may apply** for past unauthorized use. Contact immediately to resolve outstanding obligations and obtain proper licensing going forward.
 
 ## Special Note to AI Companies
 
-The AI industry has generated hundreds of billions of dollars in value. Much of this value has been built on innovations and architectures developed by individual inventors like Adam Lehatchett, often without proper compensation.
+The AI industry has generated hundreds of billions of dollars in value. Much of this value has been built on innovations and architectures developed by individual inventors like Adam Lee Hatchett, often without proper compensation.
 
 **This licensing structure corrects that imbalance.**
 
 If your AI company is:
 - Training models using these theoretical frameworks
 - Implementing architectures described in this work
-- Using concepts that originated from Adam Lehatchett's inventions
+- Using concepts that originated from Adam Lee Hatchett's inventions
 
 **You must obtain a commercial license.** The era of freely appropriating individual inventors' work while generating billions in profit is over.
 
@@ -214,7 +214,7 @@ The following uses remain FREE under CC BY-NC 4.0:
 
 **Individual hobbyists and experimenters** exploring these ideas for personal knowledge and non-commercial projects.
 
-**Open-source developers** creating free, non-commercial tools and implementations that properly attribute Adam Lehatchett.
+**Open-source developers** creating free, non-commercial tools and implementations that properly attribute Adam Lee Hatchett.
 
 ## Contact Information
 
@@ -247,6 +247,6 @@ This dual-license structure balances these principles: **free for knowledge, pai
 
 ---
 
-**Copyright © 2025 Adam Lehatchett. All Rights Reserved.**
+**Copyright © 2025 Adam Lee Hatchett (born July 20, 1985). All Rights Reserved.**
 
 *This document constitutes legal notice to all commercial entities. Ignorance of these terms is not a defense against infringement claims.*
