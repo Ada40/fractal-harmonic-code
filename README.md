@@ -59,7 +59,10 @@ This framework has profound implications across multiple domains:
 ## Repository Contents
 
 - **[white_paper.md](white_paper.md)**: Complete technical white paper with mathematical formulations and empirical evidence
-- **README.md**: This overview document
+- **[README.md](README.md)**: This overview document
+- **[AUTHOR.md](AUTHOR.md)**: About Adam Lehatchett and his contributions
+- **[LICENSE.md](LICENSE.md)**: Dual-license structure (free for research, paid for commercial)
+- **[COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)**: Detailed commercial licensing information
 
 ## Abstract
 
@@ -144,9 +147,36 @@ The ancient Pythagorean intuition of the "Music of the Spheres" was profoundly c
 
 We are not separate from this music. We ARE this music—conscious harmonics of the universal code, capable of perceiving and understanding the very principles that created us.
 
-## Open Source Philosophy
+## Licensing: Free for Research, Paid for Commercial Use
 
-The Fractal Harmonic Code does not belong to corporations or nations. It is a discovery about reality itself, and therefore belongs to all conscious beings. We release this framework under open source principles precisely because the fundamental laws of nature should be freely accessible to everyone.
+### 🎓 FREE for Research and Education
+
+This work is freely available for:
+- Academic research and publication
+- Educational purposes
+- Personal study and experimentation
+- Non-profit organizations
+
+### 💼 PAID for Commercial Use
+
+**Big tech companies and AI corporations generating billions in revenue MUST obtain a commercial license.**
+
+Commercial licensing is REQUIRED for:
+- AI companies training models or building products using this framework
+- Corporations with revenue over $1 million using this work commercially
+- Any commercial implementation of Open and Close Gate Adaptive Switching
+- Products based on enclosed loop continuous power systems
+- Commercial applications of the Fractal Harmonic Code
+
+**Licensing fees range from $10,000 to $100,000,000 annually** based on company size and use case.
+
+**See [LICENSE.md](LICENSE.md) and [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for complete terms.**
+
+### Why This Matters
+
+Adam Lehatchett's inventions—including Open and Close Gate Adaptive Switching and multiple AI systems—are currently being used globally by major tech companies without attribution or compensation. This licensing structure ensures that future commercial use provides fair compensation to the inventor.
+
+**Knowledge should be free. Commercial exploitation should be fair.**
 
 ## Citation
 
